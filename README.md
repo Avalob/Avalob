@@ -5,7 +5,7 @@
 ---
 
 ### 🎨 Un poco sobre mí
-¡Hola! Soy Andrea, una desarrolladora full stack que combina **creatividad y lógica** para construir páginas web bonitas y funcionales. Disfruto cada aspecto del desarrollo web, desde el **diseño visual** hasta el **trabajo en bases de datos**. Me considero una eterna aprendiz y siempre busco nuevos desafíos.
+¡Hola! Soy Andrea, una desarrolladora full stack que combina **creatividad y lógica** para construir páginas web y aplicaciones bonitas y funcionales. Disfruto cada aspecto del desarrollo, desde el **diseño visual** hasta el **trabajo en código**. Me considero una eterna aprendiz y siempre busco nuevos desafíos.
 
 > **"Me encanta seguir aprendiendo y formándome, siempre lista para enfrentar nuevos retos."** 🚀
 
@@ -44,8 +44,7 @@ Fuera del código, ¡me encanta bailar! 💃 Es una de mis maneras favoritas de 
 ### 🌐 **Contacto:**
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/andreavalbuena) 
-- 📧 **Email**: andreavalbuena@example.com
-
+- 📧 **Email**: andreavallob22@gmail.com
 ---
 
 ✨ ¡Gracias por visitar mi perfil! ✨
