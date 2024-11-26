@@ -45,6 +45,7 @@ Fuera del código, ¡me encanta bailar! 💃 Es una de mis maneras favoritas de 
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreavalbuenalobaton/) 
 - 📧 **Email**: andreavallob22@gmail.com
+  
 ---
 
 ✨ ¡Gracias por visitar mi perfil! ✨
